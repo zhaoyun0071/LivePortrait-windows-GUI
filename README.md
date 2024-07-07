@@ -10,6 +10,7 @@ https://github.com/KwaiVGI/LivePortrait
 链接：https://pan.quark.cn/s/0301f835297d 
 提取码：nLPT
 
+#  注意：安装目录和选择的文件路径不能中文
 
  ![image](https://github.com/zhaoyun0071/LivePortrait-windows-GUI/blob/main/1.png)
  ![image](https://github.com/zhaoyun0071/LivePortrait-windows-GUI/blob/main/2.png)
