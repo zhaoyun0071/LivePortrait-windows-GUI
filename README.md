@@ -38,4 +38,4 @@ https://www.bilibili.com/video/BV1QJ4m1T7HN
 
 # V1.0 版本：2024-7-4
 
-1、基于https://github.com/KwaiVGI/LivePortrait项目，原汁原味，支持图片模拟驱动视频的表情、五官动作等。
+1、基于LivePortrait项目，原汁原味，支持图片模拟驱动视频的表情、五官动作等。
